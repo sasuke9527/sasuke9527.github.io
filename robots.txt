@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sasuke9527.github.io/sitemap.xml
